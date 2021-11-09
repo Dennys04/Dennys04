@@ -8,12 +8,12 @@ Soy estudiante de **Desarrollo de Software** en el __Instituto Técnico Superior
 
 ## SKILLS :computer:
 
-**HTML5:** :star::star::star::star::star: __Tengo conocimientos de la más importante de HTML, desde la estructura base de una página web, hasta la construcción de una página web semántica.__
+**HTML5:** :star::star::star::star::star: _Tengo conocimientos de la más importante de HTML, desde la estructura base de una página web, hasta la construcción de una página web semántica._
 
-**CSS 3:** :star::star::star: __Tengo conocimientos de la más importante de CSS3, Flexbox, posicionamiento de cajas.__
+**CSS 3:** :star::star::star: _Tengo conocimientos de la más importante de CSS3, Flexbox, posicionamiento de cajas._
 
-**JavaScript:** :star::star: __Javascript estoy aprendiendo mejro sus fundamentos y sintaxis, conozco lo básico del lenguajes. Estoy estudiando el lenguaje para mejorar en mi proyectos y aprender alguna de sus libreria y frameworks__
+**JavaScript:** :star::star: _Javascript estoy aprendiendo mejro sus fundamentos y sintaxis, conozco lo básico del lenguajes. Estoy estudiando el lenguaje para mejorar en mi proyectos y aprender alguna de sus libreria y frameworks_
 
-**PHP:** :star::star::star: __Lo Esencial de PHP, para poder crear páginas web dinámicas.__
+**PHP:** :star::star::star: _Lo Esencial de PHP, para poder crear páginas web dinámicas._
 
-**C++:** :star::star::star::star: __Este lenguaje lo aprendí con una asignación en el instituto llamada "Lógica de Programación" y lo sigo aprendiendo en "Algoritmos y Estructura de Datos", mi nivel con el lenguaje es básico/intermedio.__
+**C++:** :star::star::star::star: _Este lenguaje lo aprendí con una asignación en el instituto llamada "Lógica de Programación" y lo sigo aprendiendo en "Algoritmos y Estructura de Datos", mi nivel con el lenguaje es básico/intermedio._
